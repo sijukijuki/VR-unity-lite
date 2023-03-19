@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\look.cs">
+    <Files>
+      <File FileName="Assets\look.cs" Line="25" Column="65" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\BaseVRDevice.cs" Line="1" Column="1" />
+      <File FileName="Assets\splash.cs" Line="12" Column="28" />
+      <File FileName="Assets\menuju.cs" Line="1" Column="1" />
+      <File FileName="Assets\kembali.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Scripts\UI\GvrLaserPointerImpl.cs" Line="1" Column="1" />
+      <File FileName="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\GvrDevice.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
