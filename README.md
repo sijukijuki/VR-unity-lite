@@ -8,7 +8,7 @@ Players can explore the surrounding areas using Cardboard VR.
 It is made to show the beauty of The Holy Mosque (Masjid al-Haram) in Mecca City.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://zakyshowcase.000webhostapp.com/img/about-04.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://zakyshowcase.000webhostapp.com/img/about-04.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://zakyshowcase.000webhostapp.com/img/about-03.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://zakyshowcase.000webhostapp.com/img/about-03.jpg">
   <img alt="VR Mekah" src="https://zakyshowcase.000webhostapp.com/img/about-04.jpg">
 </picture>
